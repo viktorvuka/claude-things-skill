@@ -69,7 +69,7 @@ The skill uses the [Things 3 JSON URL scheme](https://culturedcode.com/things/su
 
 ## Credits
 
-Built with [Claude Skills](https://support.anthropic.com/en/articles/11147530-how-do-i-create-and-manage-claude-s-skills) by [@viktorvuka](https://viktorvuka.fr).
+Built with [Claude Skills](https://support.anthropic.com/en/articles/11147530-how-do-i-create-and-manage-claude-s-skills) by [@viktorvuka](https://vukasinovic.fr).
 
 ## License
 
