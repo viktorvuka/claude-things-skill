@@ -4,6 +4,8 @@ A [Claude Skill](https://support.anthropic.com/en/articles/11147530-how-do-i-cre
 
 Drop a briefing, meeting notes, or anything on your mind — Claude generates a clean HTML preview of the proposed tasks. One click and everything imports into Things automatically via the `things:///json` URL scheme.
 
+[Try it online](https://socialistic.ai/claude-things-skill-8bf891?utm_source=github_readme&utm_campaign=koc_skill_creator&utm_content=hyperlink)
+
 ## What it does
 
 - **Generates Things 3 import links** from any conversation that produces actionable tasks
